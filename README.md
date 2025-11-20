@@ -39,11 +39,11 @@ Como é um projeto estático, não é necessária nenhuma instalação complexa.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/andradmarcel/Antigravity.git
+   git clone https://github.com/andradmarcel/portfolio.git
    ```
 2. **Navegue até a pasta do portfólio:**
    ```bash
-   cd Antigravity/Portfolio
+   cd portfolio
    ```
 3. **Abra o arquivo `index.html`** no seu navegador preferido.
 
